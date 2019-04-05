@@ -1,8 +1,8 @@
+# Letter
+You are given an attachment that contains a letter with credentials that are blacked out. The goal is to get the information from the letter that is blocked out.
 
-The goal of this challenge is to get the information that is blacked out. 
-
-To do this, I simply looked to see if I could highlight the text under the black bar.
-First I tried the username.
+My first thought was to see if I could highlight the text under the black bar.
+First I tried the username. I highlighted the text and pasted it into a blank notepad.
 
 ```
 Username:........................... 
