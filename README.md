@@ -1,11 +1,7 @@
 # GoogleCTF
-Notes and Write-ups for Google CTF
 
+April 2019 Monthly Challenge
 
-Letter
-
-Moar
-
-OCR IS Cool
+Write up for ITCQ CTF Group created by Alli (ComicGirl in Discord)
 
 
