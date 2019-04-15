@@ -6,7 +6,7 @@ You are given a address to connect to using netcat
 $ nc moar.ctfcompetition.com 1337
 ```
 
-Once you connect you will be given the manual for socat. The interesting thing about this manual is that you can still put in commands near the end of it. 
+Once you connect you will be given the manual for socat. The interesting thing about this manual is that you can still put in commands near the end of it. But hurry, you'll be disconnected after a few minutes and have to reconnect using the above command.
 
 To test this try typing the following:
 
