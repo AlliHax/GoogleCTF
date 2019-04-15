@@ -3,7 +3,8 @@
 You are given a foo.ico file that seems a little fishy. Let's take a look.
 
 What happens when you read it in the terminal?
- 
+
+
 '''
 cat foo.ico
 '''
