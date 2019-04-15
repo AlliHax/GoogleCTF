@@ -33,7 +33,7 @@ E���a6��vp�i Xq	:��ٻ����'-�h!�:��b�&g�R�
                                                  O�S_PK�
 ```
 
-Hmm, it seems to be all gibberish. Although there are two lines that stand out to me.
+Hmm, it seems to be all gibberish. Although, there are two lines that stand out to me.
 
 ```
 ��driver.txtUT�-[ux
