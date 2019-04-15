@@ -4,11 +4,11 @@ You are given a foo.ico file that seems a little fishy. Let's take a look.
 
 What happens when you read it in the terminal?
  
- '''
- cat foo.ico
- '''
- Here is the output:
- '''
+'''
+cat foo.ico
+'''
+Here is the output:
+'''
    �( @����������������������������DDDA������DDDC333333���O��K������1OOOO�������G��K�������1����DDDI����������G��K������1ODOI�������G��K�������1��DDDI��	�	��O��K�
       �3����1OODI�0��3�����G��K��
                                  ������1DDDI��0��	��1O��K���
