@@ -14,3 +14,5 @@ ___
 [Moar](https://github.com/TheComicGirl/GoogleCTF/blob/master/Moar.md)
 
 [Floppy](https://github.com/TheComicGirl/GoogleCTF/blob/master/Floppy.md)
+
+[Floppy2](https://github.com/TheComicGirl/GoogleCTF/blob/master/Floppy2.md)
