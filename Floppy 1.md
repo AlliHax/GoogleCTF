@@ -7,7 +7,9 @@ What happens when you read it in the terminal?
 '''
 cat foo.ico
 '''
+
 Here is the output:
+
 '''
    �( @����������������������������DDDA������DDDC333333���O��K������1OOOO�������G��K�������1����DDDI����������G��K������1ODOI�������G��K�������1��DDDI��	�	��O��K�
       �3����1OODI�0��3�����G��K��
@@ -29,11 +31,15 @@ E���a6��vp�i Xq	:��ٻ����'-�h!�:��b�&g�R�
                    O�S_P��L慄f�����www.comUT�-[ux
                                                  O�S_PK�
 '''
+
 Hmm, it seems to be all gibberish. Although there are two lines that stand out to me.
+
 '''
 ��driver.txtUT�-[ux
 '''
+
 and
+
 '''
 O�S_P��L慄f�����www.comUT�-[ux
 '''
@@ -44,6 +50,7 @@ Now why would an .ico file have other files in it? Let's try to extract them.
 unzip foo.ico
 '''
 result:
+
 '''
 Archive:  foo.ico
 warning [foo.ico]:  765 extra bytes at beginning or within zipfile
@@ -51,12 +58,15 @@ warning [foo.ico]:  765 extra bytes at beginning or within zipfile
   inflating: driver.txt              
   inflating: www.com            
 '''
-  Well, that went well!
-  Let's check out this .txt file.
+
+Well, that went well!
+Let's check out this .txt file.
 '''
-  cat driver.txt
+cat driver.txt
 '''
-  result:
+
+result:
+  
 '''
   This is the driver for the Aluminum-Key Hardware password storage device.
      CTF{qeY80sU6Ktko8BJW}
