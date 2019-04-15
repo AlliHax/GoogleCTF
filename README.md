@@ -5,7 +5,7 @@
 #### Writeup for ITCQ CTF Group created by Alli (ComicGirl in the ITCQ Discord)
 
 ##### Progression
-
+___
 
 [Letter](https://github.com/TheComicGirl/GoogleCTF/blob/master/Letter.md)
 
