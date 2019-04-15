@@ -25,7 +25,7 @@ hD7X-t6ug_hl(]Wh8$^15GG1-hbrX5prPYGW^QFIuxYGFK,1-FGIuqZhHIX%A)I!hSLX4SI!{p*S:eTM
 Hmm, strange, let's do some research!
 [Wikipedia](https://en.wikipedia.org/wiki/COM_file) informs us that .com is a DOS executable binary format. This means we need to find a way to run that file. After some researching, I found a write up on this CTF that suggested dosbox which I installed.
 
-After some more research, I found out how to get to my active file directory using dosbox.
+After some more research, I figured out how to get to my active file directory using dosbox.
 
 ```
 mount c .
